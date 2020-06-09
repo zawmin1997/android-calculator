@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="buttonClearMemory">MC</string>
+    <string name="buttonAddmemory">M+</string>
+    <string name="buttonSubMemory">M-</string>
+    <string name="buttonRecallMemory">MR</string>
+    <string name="buttonClear">C</string>
+    <string name="buttonToogle">+/-</string>
+    <string name="buttonSub">-</string>
+    <string name="buttonMulti">*</string>
+    <string name="buttonDivide">/</string>
+    <string name="buttonSeven">7</string>
+    <string name="buttonEight">8</string>
+    <string name="buttonNine">9</string>
+    <string name="buttonFour">4</string>
+    <string name="buttonFive">5</string>
+    <string name="buttonSix">6</string>
+    <string name="buttonAdd">+</string>
+    <string name="buttonOne">1</string>
+    <string name="buttonTwo">2</string>
+    <string name="buttonThree">3</string>
+    <string name="buttonZero">0</string>
+    <string name="buttonPoint">.</string>
+    <string name="buttonEqual">=</string>
+    <string name="buttonSquareRoot">\u221a</string>
+    <string name="buttonInvert">1/x</string>
+    <string name="buttonSin">sin</string>
+    <string name="buttonCos">cos</string>
+    <string name="buttonTan">tan</string>
+    <string name="buttonCot">cot</string>
+    <string name="buttonSec">sec</string>
+    <string name="buttonCosec">cosec</string>
+    <string name="buttonSquare">x\u00B2</string>
+    <string name="buttonPercent">%</string>
+</resources>
